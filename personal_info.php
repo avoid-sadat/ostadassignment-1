@@ -7,10 +7,10 @@
 
 <?php
 // Define variables for personal information
-$name = "Your Name";
-$age = 25; 
-$country = "Your Country";
-$introduction = "Hello, I'm Your Name. I'm a PHP developer from Your Country.";
+$name = "Anwar Sadat";
+$age = 32; 
+$country = "Bangladesh";
+$introduction = "Hello, I'm Anwar Sadat. I'm a PHP developer from Bangladesh.";
 
 // Display personal information
 echo "<h1>Personal Information</h1>";
